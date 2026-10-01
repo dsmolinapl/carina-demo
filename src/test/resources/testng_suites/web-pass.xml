@@ -16,12 +16,7 @@
 
     <test name="GSM arena web tests">
         <classes>
-            <class name="com.zebrunner.carina.demo.WebSampleTest">
-                <methods>
-                    <include name="testNewsSearch"/>
-                    <include name="testBrandGroup"/>
-                </methods>
-            </class>
+            <class name="com.zebrunner.carina.demo.WebPassSimpleTest" />
         </classes>
     </test>
 
